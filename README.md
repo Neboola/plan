@@ -1,10 +1,10 @@
 # plan
 
-Java core 
-collections 
-list 
+Java core [JR]
+collections [+]
 o(N) ( n ) 
 O( n ) 
+list 
 Set 
 Treeset 
 HashSet 
